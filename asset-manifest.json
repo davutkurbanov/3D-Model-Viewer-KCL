@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3D-Model-Viewer-KCL/static/css/main.e522d982.css",
+    "main.js": "/3D-Model-Viewer-KCL/static/js/main.f5a01329.js",
+    "static/js/453.d4a092a8.chunk.js": "/3D-Model-Viewer-KCL/static/js/453.d4a092a8.chunk.js",
+    "index.html": "/3D-Model-Viewer-KCL/index.html",
+    "main.e522d982.css.map": "/3D-Model-Viewer-KCL/static/css/main.e522d982.css.map",
+    "main.f5a01329.js.map": "/3D-Model-Viewer-KCL/static/js/main.f5a01329.js.map",
+    "453.d4a092a8.chunk.js.map": "/3D-Model-Viewer-KCL/static/js/453.d4a092a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e522d982.css",
+    "static/js/main.f5a01329.js"
+  ]
+}
