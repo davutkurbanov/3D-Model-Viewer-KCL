@@ -4,7 +4,7 @@ Overview
 
 The Museum 3D Object Explorer is a React-based prototype that explores how interactive 3D objects and lightweight game mechanics can enhance digital museum experiences.
 
-Designed as part of a master’s-level academic assignment, the project reimagines how museum collections—such as those held by the British Museum—can be experienced online beyond static images and text.
+Designed as part of a master’s-level academic assignment, the project reimagines how museum collections, such as those held by the British Museum, can be experienced online beyond static images and text.
 
 Users can either explore artifacts freely or engage in a playful guessing mode that encourages curiosity about cultural origins and historical context.
 
