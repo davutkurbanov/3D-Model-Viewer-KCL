@@ -74,35 +74,3 @@ Digital collections
 Museum gift shops
 
 On-demand fabrication
-
-## Tech Stack
-
-React (functional components & hooks)
-
-Custom 3D Model Viewer component
-
-STL-based 3D assets
-
-CSS-based UI layout and state-driven navigation
-
-## Academic Motivation
-
-This project was developed to explore:
-
-Digital heritage and cultural representation
-
-Gamification in educational interfaces
-
-The role of interactivity in museum knowledge transmission
-
-Alternative engagement models beyond static archives
-
-It aligns with broader research interests in:
-
-Playful learning
-
-Knowledge discovery
-
-Human–computer interaction
-
-Cultural digitization
