@@ -1,70 +1,108 @@
-# Getting Started with Create React App
+# 🏛️ Museum 3D Object Explorer
+Master’s Assignment — Interactive 3D Viewer for Museums
+Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Museum 3D Object Explorer is a React-based prototype that explores how interactive 3D objects and lightweight game mechanics can enhance digital museum experiences.
 
-## Available Scripts
+Designed as part of a master’s-level academic assignment, the project reimagines how museum collections—such as those held by the British Museum—can be experienced online beyond static images and text.
 
-In the project directory, you can run:
+Users can either explore artifacts freely or engage in a playful guessing mode that encourages curiosity about cultural origins and historical context.
 
-### `npm start`
+### Core Concept
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Traditional museum websites often present objects passively. This project investigates how:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3D interaction
 
-### `npm test`
+Minimal gamification
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contextual storytelling
 
-### `npm run build`
+can increase engagement, learning, and memorability in digital heritage spaces.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Key Features
+### 🧱 Interactive 3D Object Viewer
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Real-time rendering of STL-based 3D models
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Users can rotate, zoom, and inspect artifacts freely
 
-### `npm run eject`
+Designed to mimic close, object-focused museum viewing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🌍 Cultural Context & Storytelling
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Each object includes:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Historical descriptions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Country of origin
 
-## Learn More
+External reference links (e.g. Wikipedia)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Encourages contextual rather than purely visual engagement
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🎮 “Guess the Country” Play Mode
 
-### Code Splitting
+A lightweight educational game mode
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Users guess the country of origin of an object
 
-### Analyzing the Bundle Size
+Limited guesses introduce challenge without pressure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Object descriptions unlock after correct guesses or attempts are exhausted
 
-### Making a Progressive Web App
+This mode explores learning-through-play rather than explicit instruction.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 🧭 Explore Mode
 
-### Advanced Configuration
+Browse objects freely without constraints
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Navigate between artifacts using gallery-style controls
 
-### Deployment
+View related objects to encourage comparative exploration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 🛍️ Museum Commerce Concept (Speculative)
 
-### `npm run build` fails to minify
+Prototype “Buy” flow for 3D-printed replicas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Size selection (small / medium / large)
+
+Conceptual bridge between:
+
+Digital collections
+
+Museum gift shops
+
+On-demand fabrication
+
+## Tech Stack
+
+React (functional components & hooks)
+
+Custom 3D Model Viewer component
+
+STL-based 3D assets
+
+CSS-based UI layout and state-driven navigation
+
+## Academic Motivation
+
+This project was developed to explore:
+
+Digital heritage and cultural representation
+
+Gamification in educational interfaces
+
+The role of interactivity in museum knowledge transmission
+
+Alternative engagement models beyond static archives
+
+It aligns with broader research interests in:
+
+Playful learning
+
+Knowledge discovery
+
+Human–computer interaction
+
+Cultural digitization
